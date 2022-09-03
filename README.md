@@ -2,7 +2,7 @@
 Source code for tutorial on Youtube: https://youtu.be/VA-HpbLhvMQ
 
 ## Stylesheet
-'''
+```
 QWidget{
 background-color:#1C3879;
 }
@@ -17,4 +17,4 @@ margin-left:10%;
 margin-right:10%;
 font:14pt;
 }
-'''
+```
